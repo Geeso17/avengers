@@ -1,0 +1,57 @@
+.nav-link {
+   color: black;
+   font-weight: 700;
+   margin-left: 3rem;
+}
+.two {
+   color: black !important;
+   font-weight: 700;
+
+}
+.three {
+    color: black !important;
+   font-weight: 700;
+}
+
+body{
+    background-color: #f8f9fa !important;
+}
+
+/* .navbar{
+    background-color: black !important;
+} */
+.navbar-nav {
+    margin-left: 10rem;
+}
+.lappy {
+    position: relative;
+    left: 10rem; 
+}
+.btn1 {
+    border-radius: 100px;
+    height: 75px;
+    width: 150px;
+    position: relative;
+    right: 70px;
+    background-color: black;
+    color: white;
+} 
+input {
+    border-radius: 100px;
+    height:80px;
+    width: 350px; 
+}
+p {
+   color: darkgrey; 
+}
+.play1 {
+    padding: 2rem !important;
+}
+h3 {
+    color: black !important;
+    font-weight: 700 !important;
+    padding: 20px;
+}
+h5 {
+    margin-left: 30px !important;
+}

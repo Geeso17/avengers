@@ -1,0 +1,45 @@
+.first {
+    background-color: grey;
+    color: white;
+    height: 15vh;
+    margin-top: 5vh;
+    text-align: right;
+}
+.second {
+    background-color: lightgray;
+    color: white;
+    text-align: center;
+    border-top: 1px solid black;
+
+}
+.third {
+    background-color: lightgray;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.fourth {
+    background-color: lightgray;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.fifth {
+    background-color: lightgray;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.sixth {
+    background-color: lightgray;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.play {
+    background-color: lightgreen;
+    text-align: center;
+    border-left: 1px solid black;
+}
+.pull {
+    border-left: 1px solid black;
+}
+.push {
+    border-left: 1px solid black;
+}

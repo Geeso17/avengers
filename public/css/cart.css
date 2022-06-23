@@ -1,0 +1,102 @@
+h3 {
+  padding: 1rem;
+}
+.ran {
+  background-color: rgb(173, 173, 173) !important;
+  border-radius: 100% !important;
+}
+.drop {
+  display: flex;
+  justify-content: space-between;
+  float: right;
+}
+.buttons {
+  color: rgba(146, 14, 14, 0.76);
+  padding: 2rem;
+}
+.nail1 {
+  padding: 4rem;
+  margin-right: 40px;
+}
+.nail2 {
+  padding: 4rem;
+  margin-right: 30px;
+}
+.nail3 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail4 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail5 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail6 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail7 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail8 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail9 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail10 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.nail11 {
+  padding: 4rem;
+  margin-left: 20px; 
+}
+.nail12 {
+  padding: 4rem;
+  margin-left: 20px;
+}
+.gallery {
+  display: flex;
+  justify-content: space-between;
+}
+.ship {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  background-color: black;
+  font-family: serif;
+  color: whitesmoke;
+}
+
+.num1 {
+  text-align: center;
+  font-size: x-large;
+} 
+.num3 {
+  text-align: center;
+  font-size: x-large;
+}
+.line {
+  height: 2px;
+  width: 30px;
+  background-color: rgba(255, 0, 0, 0.5);
+  margin-left: 40%;
+}
+/* .Add {
+  color: darkgreen;
+  padding-left: 20px;
+  border: none;
+  width: 180px;
+  margin-left: 70px;
+  margin-bottom: 15px;
+} */
+/* h5 {
+  padding-right: 40px;
+} */

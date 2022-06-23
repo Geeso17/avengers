@@ -1,0 +1,29 @@
+.nav-link {
+    color: black;
+    font-weight: 700;
+    margin-left: 3rem;
+ }
+ .two {
+    color: black !important;
+    font-weight: 700;
+ 
+ }
+ .three {
+     color: black !important;
+    font-weight: 700;
+ }
+ 
+ body{
+     background-color: #f8f9fa !important;
+ }
+ .three {
+    margin-left: 10rem !important;
+ }
+ 
+.genie {
+    margin-left: 20px;
+}
+.G-btn {
+    border: 1px solid black;
+    border-radius: 4px
+}
